@@ -1,7 +1,5 @@
 # VCNO-3DGS: Vehicle-Context Neural Optimization for 3D Gaussian Splatting
 
-![Teaser image](assets/teaser_2.jpg)
-
 VCNO-3DGS is a vehicle-oriented extension of 2D Gaussian Splatting. It uses a
 reliability-filtered vehicle-detail signal to coordinate three training modules:
 
